@@ -1,9 +1,5 @@
 package com.owen.ActiveMQ_HelloActiveMQ;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
 import javax.jms.Destination;
